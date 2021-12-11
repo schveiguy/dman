@@ -2,6 +2,8 @@
 
 This draws a dman as shown [here](https://github.com/dlang-community/d-mans) using the [raylib](https://www.raylib.com/) library!
 
+![dman](https://user-images.githubusercontent.com/580778/145662610-afa77773-f28e-4328-8631-ccb354a647a0.png)
+
 Steps to build:
 
 1. Copy version 4.0.0 of the raylib library files for your platform into the project directory.
