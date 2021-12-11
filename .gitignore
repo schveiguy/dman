@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dman
+dman.so
+dman.dylib
+dman.dll
+dman.a
+dman.lib
+dman-test-*
+*.exe
+*.o
+*.obj
+*.lst

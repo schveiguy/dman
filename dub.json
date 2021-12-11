@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Steven Schveighoffer"
+	],
+	"copyright": "Copyright © 2021, Steven Schveighoffer",
+	"dependencies": {
+		"raylib-d": "~>4.0.0"
+	},
+	"description": "Draw a D man!",
+	"license": "Boost-1.0",
+	"name": "dman",
+        "libs-posix": ["raylib"],
+        "libs-windows": ["raylibdll"],
+        "lflags-posix": ["-L."]
+}
